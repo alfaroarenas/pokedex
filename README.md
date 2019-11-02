@@ -1,0 +1,1 @@
+# pagina de pokedex; permite hacer Alta Baja y Modificar un pokemon.
