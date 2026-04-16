@@ -1,6 +1,6 @@
 <?php
 
-echo"hola estoy agregando pokemon a la base de datos";
+//echo"hola estoy agregando pokemon a la base de datos";
 
 require "conexion.php";
 
